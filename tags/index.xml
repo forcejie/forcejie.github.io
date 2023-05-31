@@ -1,0 +1,8 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Tags - Tag - 森姐的blog</title>
+        <link>https://forcejie.github.io/tags/</link>
+        <description>Tags - Tag - 森姐的blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>2963301696@qq.com (东非不开森)</managingEditor>
+            <webMaster>2963301696@qq.com (东非不开森)</webMaster><atom:link href="https://forcejie.github.io/tags/" rel="self" type="application/rss+xml" /></channel>
+</rss>

@@ -1,0 +1,24 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>All Posts - 森姐的blog</title>
+        <link>https://forcejie.github.io/posts/</link>
+        <description>All Posts | 森姐的blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>2963301696@qq.com (东非不开森)</managingEditor>
+            <webMaster>2963301696@qq.com (东非不开森)</webMaster><lastBuildDate>Wed, 31 May 2023 20:46:32 &#43;0800</lastBuildDate><atom:link href="https://forcejie.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>JavaScript学习</title>
+    <link>https://forcejie.github.io/js/</link>
+    <pubDate>Wed, 31 May 2023 20:46:32 &#43;0800</pubDate>
+    <author>东非不开森</author>
+    <guid>https://forcejie.github.io/js/</guid>
+    <description><![CDATA[💭💭 ✨：JavaScript VS TypeScript 数据类型 💟：东非不开森的主页 &gt; 💜: 你若盛开，清风自来 💜💜 🌸: 如有错误或不足之处，希望可以指正，非常感谢 😉 @TOC 一]]></description>
+</item>
+<item>
+    <title>hugo</title>
+    <link>https://forcejie.github.io/first_post/</link>
+    <pubDate>Wed, 31 May 2023 18:27:41 &#43;0800</pubDate>
+    <author>东非不开森</author>
+    <guid>https://forcejie.github.io/first_post/</guid>
+    <description><![CDATA[hugo ]]></description>
+</item>
+</channel>
+</rss>
